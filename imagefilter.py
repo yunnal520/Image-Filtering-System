@@ -323,8 +323,4 @@ def hybrid_img(sigma, image_path_A, image_path_B, new_file_name):
     
 
 hybrid_img(3, 'images/0b_dog.bmp', 'images/0a_cat.bmp', 'hybrid_cat_dog3.png')
-hybrid_img(3, 'images/1b_motorcycle.bmp', 'images/1a_bicycle.bmp', 'hybrid_bike_motocycle3.png')
-hybrid_img(3, 'images/2b_marilyn.bmp', 'images/2a_einstein.bmp', 'hybrid_marilyn_einstein3.png')
-hybrid_img(3, 'images/3b_submarine.bmp', 'images/3a_fish.bmp', 'hybrid_submarine_fish3.png')
-hybrid_img(3, 'images/4b_plane.bmp', 'images/4a_bird.bmp', 'hybrid_plane_bird3.png')
 
